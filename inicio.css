@@ -123,7 +123,7 @@ input{
 	}
 	
 body{
-	background-image:url(imagenes/motos.jpg);
+	background-image:url(/motos.jpg);
 	background-repeat:no-repeat;
 	background-attachment:fixed;
 	background-size:cover;
